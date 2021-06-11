@@ -1,0 +1,13 @@
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\Debug\CarSaleProjectWD.AccountRegistration.resources
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\Debug\CarSaleProjectWD.LoginPage.resources
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\Debug\CarSaleProjectWD.Portal3.resources
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\Debug\CarSaleProjectWD.VehicleCleanUp.resources
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\Debug\CarSaleProjectWD.VehicleDetailsUpdate.resources
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\Debug\CarSaleProjectWD.VehicleHistory.resources
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\Debug\CarSaleProjectWD.VehicleInquiry.resources
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\Debug\CarSaleProjectWD.VehicleInquiryCopy.resources
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\Debug\CarSaleProjectWD.VehicleRegistrationNew.resources
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\Debug\CarSaleProjectWD.VehicleRepair.resources
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\Debug\CarSaleProjectWD.VehicleServiceCheckList.resources
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\Debug\CarSaleProjectWD.vcxproj.GenerateResource.cache
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\Debug\CarSaleProjectWD.vcxproj.CopyComplete

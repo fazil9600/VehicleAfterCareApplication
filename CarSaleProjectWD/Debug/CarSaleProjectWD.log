@@ -1,0 +1,51 @@
+﻿  AccountRegistration.cpp
+  LoginPage.cpp
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,42): warning C4101: 'cdUr': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,9): warning C4101: 'basicEr': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,56): warning C4101: 'bufferR': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,48): warning C4101: 'wheelR': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,73): warning C4101: 'wireR': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,65): warning C4101: 'lightr': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,18): warning C4101: 'advancedEr': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(956,34): warning C4101: 'discountNet': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,30): warning C4101: 'perSpareWr': unreferenced local variable
+  Portal3.cpp
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,42): warning C4101: 'cdUr': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,9): warning C4101: 'basicEr': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,56): warning C4101: 'bufferR': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,48): warning C4101: 'wheelR': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,73): warning C4101: 'wireR': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,65): warning C4101: 'lightr': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,18): warning C4101: 'advancedEr': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(956,34): warning C4101: 'discountNet': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,30): warning C4101: 'perSpareWr': unreferenced local variable
+  VehicleCleanUp.cpp
+  VehicleDetailsUpdate.cpp
+  VehicleHistory.cpp
+  VehicleInquiry.cpp
+  VehicleInquiryCopy.cpp
+  VehicleRegistrationNew.cpp
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,42): warning C4101: 'cdUr': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,9): warning C4101: 'basicEr': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,56): warning C4101: 'bufferR': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,48): warning C4101: 'wheelR': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,73): warning C4101: 'wireR': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,65): warning C4101: 'lightr': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,18): warning C4101: 'advancedEr': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(956,34): warning C4101: 'discountNet': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,30): warning C4101: 'perSpareWr': unreferenced local variable
+  VehicleRepair.cpp
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,42): warning C4101: 'cdUr': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,9): warning C4101: 'basicEr': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,56): warning C4101: 'bufferR': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,48): warning C4101: 'wheelR': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,73): warning C4101: 'wireR': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,65): warning C4101: 'lightr': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,18): warning C4101: 'advancedEr': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(956,34): warning C4101: 'discountNet': unreferenced local variable
+D:\carSaleProjectWD\CarSaleProjectWD\CarSaleProjectWD\VehicleRepair.h(955,30): warning C4101: 'perSpareWr': unreferenced local variable
+  VehicleServiceCheckList.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  AccountRegistration.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CarSaleProjectWD.vcxproj -> D:\carSaleProjectWD\CarSaleProjectWD\Debug\CarSaleProjectWD.exe
